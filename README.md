@@ -37,3 +37,9 @@
 - 특정 부분만 border 추가하기
 
 
+# statusBarBackgroundColor.swift
+
+- swift statusBar control하기
+- ❗️완벽한 해결책은 아님
+
+
