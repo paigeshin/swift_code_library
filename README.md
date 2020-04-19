@@ -43,3 +43,23 @@
 - ❗️완벽한 해결책은 아님
 
 
+# swifty_alamofire.swift
+
+- 가장 간단하게 restful api 데이터를 받아올 수 있는 방법
+
+# ipad_detection.swift
+
+    UIDevice.current.userInterfaceIdiom == .pad
+    
+    
+# realm_data.swift
+
+- 두 개 이상 연계된 값들을 어떻게 정의하는지 나옴
+
+# timestamp.swift
+
+- 어떻게 swift에서 timestamp를 가지고 놀 수 있는지
+
+# realm_crud.swift
+
+- realm crud 쓰는 방법
